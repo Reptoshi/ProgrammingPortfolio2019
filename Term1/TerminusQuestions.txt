@@ -1,0 +1,55 @@
+What are your options in the "SpellCastingAcademy"?
+
+	Go to "PracticeRoom", go to "Lessons", or use item "HurryingStudent"
+
+What does the "less" command do?
+
+	Displays text from an executable
+
+What can you do with a "PracticeDummy"?
+
+	Use "mv" to move it into a box
+
+What happens if someone tries to ‘mv’ a PracticeDummy that is no longer in the PracticeRoom?
+
+	It doesn't function
+
+What do you see when you try to look into a box (ls Box)?
+
+	All the practice dummies, and the instructions (because that's where I put them)
+
+What is in the "Green Meadow"?
+
+	A plump but majestic Pony
+
+Who is in the cave in the EasternMountains?
+
+	I didn't find anyone IN the cave, but the OldMan is outside the cave
+
+What do the OldManuscripts teach you to do?
+
+	Use "help" and "man" to remember commands
+
+What is surprising about the rat?
+
+	It's the size of a small dog, and it bites you
+
+Where are you brought to when you use the portal?
+
+	A town square
+
+What do you learn when researching the dark wizard?
+
+	They'll fragment the land, and only the world-maker can stop the DarkWizard's virus with the power of "sudo", which may be the DarWizard's only weakness
+
+What does the vendor reveal when smiling?
+
+	A mouth full of gold teeth
+
+Name two things you can interact with at the farm?
+
+	EarOfCorn and Farmer
+
+What is in the cage?
+
+	A scared-looking kid
